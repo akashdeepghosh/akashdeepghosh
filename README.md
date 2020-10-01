@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Akashdeep Ghosh](https://video-public.canva.com/VADn8Uk7id8/videos/c7849d977c.gif)
 
 <h1 align="center">Hi 👋, I'm Akashdeep Ghosh</h1>
 <h3 align="center">I'm a python programmer</h3>
