@@ -1,4 +1,4 @@
-<img align="center" src="https://www.canva.com/design/DAEJV7aE91s/_MdE0QNemr4X1IyjH5weIQ/view?utm_content=DAEJV7aE91s&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton alt="akashdeepghosh" />
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Akashdeep Ghosh</h1>
 <h3 align="center">I'm a python programmer</h3>
