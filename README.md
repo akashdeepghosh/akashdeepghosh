@@ -1,4 +1,4 @@
-[Akashdeep Ghosh](https://imgur.com/uoRSB0E)
+![Akashdeep Ghosh](https://imgur.com/uoRSB0E)
 <h1 align="center">Hi 👋, I'm Akashdeep Ghosh</h1>
 <h3 align="center">I'm a python programmer</h3>
 
