@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdeepghosh" alt="akashdeepghosh" /> </p>
 
-- 🌱 I’m currently learning **Qiskit, Scikit**
+- 🌱 I’m currently learning: **Qiskit, Scikit**
 
-- 👨‍💻 All of my projects are available at [http://akashdeep.dev/](http://akashdeep.dev/)
+- 👨‍💻 All of my projects are available at: [http://akashdeep.dev/](http://akashdeep.dev/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about: **Python**
 
-- 📫 How to reach me **hello@akashdeep.dev**
+- 📫 How to reach me: **hello@akashdeep.dev**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: **I think I am funny**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
