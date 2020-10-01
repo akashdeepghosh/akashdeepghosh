@@ -1,4 +1,4 @@
-![Akashdeep Ghosh](https://video-public.canva.com/VADn8Uk7id8/videos/c7849d977c.gif)
+![Akashdeep Ghosh](https://imgur.com/a/HNCOQCv)
 
 <h1 align="center">Hi 👋, I'm Akashdeep Ghosh</h1>
 <h3 align="center">I'm a python programmer</h3>
