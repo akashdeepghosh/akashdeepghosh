@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/12483281" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12483281" height="30" width="40" /></a>
 <a href="https://kaggle.com/akashdeepghosh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="akashdeepghosh" height="30" width="40" /></a>
 <a href="https://instagram.com/akashdeep_ghosh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akashdeep_ghosh_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akashdeepghosh/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akashdeepghosh/profile" height<h1 align="center">Hi 👋, I'm Akashdeep Ghosh</h1>
+<a href="https://auth.geeksforgeeks.org/user/akashdeepghosh/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akashdeepghosh/profile"  height="30" width="40"<h1 align="center">Hi 👋, I'm Akashdeep Ghosh</h1>
 <h3 align="center">I'm a python programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdeepghosh" alt="akashdeepghosh" /> </p>
