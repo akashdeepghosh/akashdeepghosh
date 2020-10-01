@@ -1,4 +1,4 @@
-![Akashdeep Ghosh](https://s1.gifyu.com/images/akkuu-profile.gif)
+![Akashdeep Ghosh](https://github.com/akashdeepghosh/akashdeepghosh/blob/master/akkuu%20profile.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Akashdeep Ghosh</h1>
 <h3 align="center">I'm a python programmer</h3>
 
