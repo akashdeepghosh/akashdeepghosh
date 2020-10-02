@@ -8,7 +8,7 @@
 
 - 🔭 Currently working at [VorteK Academy](https://github.com/Vortek-Academy).
 
-- 👨‍💻 All of my projects are available at: [http://akashdeep.dev/](http://akashdeep.dev/)
+- 👨‍💻 All of my projects are available at: [My personal webpage](http://akashdeep.dev/)
 
 - 💬 Ask me about: **Python**
 
