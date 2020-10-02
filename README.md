@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akashdeep Ghosh</h1>
 <h3 align="center">I'm a python programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdeepghosh" alt="akashdeepghosh" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=akashdeepghosh" alt="akashdeepghosh" /> </p>
 
 - 🌱 I’m currently learning: **Qiskit, Scikit**
 
