@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdeepghosh" alt="akashdeepghosh" /> </p>
 
-- 🌱 I’m currently learning: **Qiskit, Scikit**
+- 🌱 I’m currently learning: **Qiskit, Scikit, GCP**
 
 - 🔭 Currently working at [VorteK Academy](https://github.com/Vortek-Academy).
 
