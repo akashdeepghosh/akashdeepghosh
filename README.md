@@ -12,7 +12,7 @@
 
 - 💬 Ask me about: **Python**
 
-- 📫 How to reach me: **hello@akashdeep.dev**
+- 📫 How to reach me: **[Email](hello@akashdeep.dev)** || **[LinkedIn](https://www.linkedin.com/in/akashdeepghosh/)**
 
 - ⚡ Fun fact: **I think I am funny**
 
