@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning: **Qiskit, Scikit, GCP**
 
+- ✍️ Currently trying to write codes in **LeetCode**
+
 - 🔭 [VorteK Academy](https://github.com/Vortek-Academy).
 
 - 💬 Ask me about: **Python/Java**
