@@ -6,6 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdeepghosh" alt="akashdeepghosh" /> </p>
 
+- 🧮 I had been a **tech enthusiast** from my childhood. I've always loved playing with codes and mathematics. This made me pursue Computer Science.
+
+- 💻 I'm a CS undergrad student, who has a deep love for **python**
+
 - 🌱 I’m currently learning: **Qiskit, Scikit, GCP**
 
 - ✍️ Currently trying to write codes in **LeetCode**
@@ -17,6 +21,8 @@
 - 📫 How to reach me: **[Twitter](https://twitter.com/akashdeep_ghosh)**
 
 - ⚡ Fun fact: **I think I am funny**
+
+- ❤️ I'm always open to learn new stuff and accept constructive feedbacks
 
 
 <h3 align="left">Languages and Tools:</h3>
