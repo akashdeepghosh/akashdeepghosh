@@ -1,31 +1,46 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/akashdeepghosh/akashdeepghosh/blob/master/akkuu%20logo.gif"/>
+</p> -->
+
+Hi 👋 My name is Akashdeep Ghosh
+================================
+
+Blockchain Developer
+--------------------
+
+I had been a tech enthusiast from my childhood. I've always loved playing with codes and mathematics. This made me pursue Computer Science. I'm a CS undergrad student, who has a deep love for Python.
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [My Portfolio](http://akashdeep.dev/)
+* ✉️  You can contact me at [hello@akashdeep.dev](mailto:hello@akashdeep.dev)
+* 🧠  I'm learning Solidity and React
+* 🤝  I'm open to collaborating on Web3 projects and DeFi apps
+* ⚡  I am the secret Captain America, don't tell anyone 😉
+
+### Skills
+
+<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="36" height="36" alt="Heroku" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a><a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a><a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a><a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a></p>
+
+
+### Socials
+
+<p align="left">
+<a href="https://discord.com/users/382475461860524032" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/akashdeepghosh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/akashdeepghosh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/akkucodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
-<h1 align="center">Hello 👋, I'm Akashdeep Ghosh</h1>
-<h3 align="center">Someone who tries to code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdeepghosh" alt="akashdeepghosh" /> </p>
+### Badges
 
-- 🧮 I had been a **tech enthusiast** from my childhood. I've always loved playing with codes and mathematics. This made me pursue Computer Science.
+<b>My GitHub Stats</b>
 
-- 💻 I'm a CS undergrad student, who has a deep love for **python**
+<a href="http://www.github.com/akashdeepghosh"><img src="https://github-readme-stats.vercel.app/api?username=akashdeepghosh&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="akashdeepghosh's GitHub stats" /></a>
 
-- 🌱 I’m currently learning: **Qiskit, Scikit, GCP**
+<a href="http://www.github.com/akashdeepghosh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashdeepghosh&stroke=ffffff&background=0f172a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-- ✍️ Currently trying to write codes in **LeetCode**
+<a href="https://github.com/akashdeepghosh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeepghosh&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-- 🔭 [VorteK Academy](https://github.com/Vortek-Academy).
+### Support Me
 
-- 💬 Ask me about: **Python/Java**
-
-- 📫 How to reach me: **[Twitter](https://twitter.com/akashdeep_ghosh)**
-
-- ⚡ Fun fact: **I think I am funny**
-
-- ❤️ I'm always open to learn new stuff and accept constructive feedbacks
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeepghosh&layout=compact" alt="akashdeepghosh" /></p>
+<a href="https://www.buymeacoffee.com/akashdeep"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
