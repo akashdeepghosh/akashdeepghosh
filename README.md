@@ -5,7 +5,7 @@
 Hi 👋 My name is Akashdeep Ghosh
 ================================
 
-Blockchain Developer
+Blockchain Developer ("Blockchain is a chain of blocks")
 --------------------
 
 I had been a tech enthusiast from my childhood. I've always loved playing with codes and mathematics. This made me pursue Computer Science. I'm a CS undergrad student, who has a deep love for Python.
