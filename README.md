@@ -44,3 +44,6 @@ I had been a tech enthusiast from my childhood. I've always loved playing with c
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/akashdeep"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+![snake gif]
+(https://github.com/akashdeepghosh/akashdeepghosh/blob/output/github-contribution-grid-snake.gif)
