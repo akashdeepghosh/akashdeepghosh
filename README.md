@@ -13,8 +13,8 @@ I had been a tech enthusiast from my childhood. I've always loved playing with c
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://akashdeep.dev/)
 * ✉️  You can contact me at [hello@akashdeep.dev](mailto:hello@akashdeep.dev)
-* 🧠  I'm learning Solidity and React
-* 🤝  I'm open to collaborating on Web3 projects and DeFi apps
+* 🧠  I'm learning Solidity
+* 🤝  I'm open to collaborating on Web3 projects and DeFi apps alongwith any Python projects
 * ⚡  I am the secret Captain America, don't tell anyone 😉
 
 ### Skills
